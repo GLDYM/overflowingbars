@@ -55,4 +55,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Artifacts
-          path: Fabric/build/libs/
+          path: 1.20.4/Fabric/build/libs/
